@@ -1,0 +1,10 @@
+.body {
+    background-color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#h1:hover {
+    color: #f00;
+    text-shadow: -1 px, -1px, 1px black;
+    cursor: pointer;
+  }
+  
