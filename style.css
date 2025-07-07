@@ -7,4 +7,6 @@
     text-shadow: -1 px, -1px, 1px black;
     cursor: pointer;
   }
-  
+th, td, table {
+    border: double;
+}
